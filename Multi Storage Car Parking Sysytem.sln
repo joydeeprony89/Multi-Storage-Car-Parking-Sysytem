@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multi Storage Car Parking Sysytem", "Multi Storage Car Parking Sysytem\Multi Storage Car Parking Sysytem.csproj", "{4103591E-D209-48BB-968F-8FB9BC36E875}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4103591E-D209-48BB-968F-8FB9BC36E875}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4103591E-D209-48BB-968F-8FB9BC36E875}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4103591E-D209-48BB-968F-8FB9BC36E875}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4103591E-D209-48BB-968F-8FB9BC36E875}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {135D473A-5048-4CF5-8F61-8470D0D955F9}
+	EndGlobalSection
+EndGlobal
